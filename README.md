@@ -14,7 +14,7 @@ A visual analysis of the spread of public goods across the city of Bangalore, In
 | Property Market of Bangalore in Q3, 2022 | Property rates of popular localities in Bangalore | [Link](https://www.magicbricks.com/blog/property-rates-in-bangalore/130414.html)|
 | Base map for Bangalore | A geojson file to use in Datawrapper | [Link](http://projects.datameet.org/Municipal_Spatial_Data/bangalore/)
 
-The property rates data was available as tables on a webpage. I used beautifulSoup to scrape the data and convert to csv using pandas. The notebook for this is available in the docs folder of the repo.
+The property rates data was available as tables on a webpage. I used beautifulSoup to scrape the data and convert to csv using pandas. The notebook for this is available as "publicgoods.ipynb" in the [docs folder](https://github.com/aishyv/parks_and_property/tree/main/docs) of the repo.
 
 ### Graphics ###
 - Datawrapper was used to create all the maps in the story - as choropleth/symbol maps.
