@@ -2,7 +2,7 @@
 ### A simple visual story using scrollytelling ###
 
 *Project submission for Lede Program, 2023*
-[Read it here!](https://aishyv.github.io/parks-and-property/)
+[Read it here!](https://aishyv.github.io/parks_and_property/)
 
 ### Goal ###
 A visual analysis of the spread of public goods across the city of Bangalore, India. 
